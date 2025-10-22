@@ -2,7 +2,7 @@
 
 > Ever wondered how ingredients connect across cuisines?
 
-This Jupyter Notebook project explores the world of recipe data through a combination of machine learning, network analysis, and natural language processing. By analyzing similarities between recipes based on their ingredients, we build a weighted graph of recipes and generate personalized recommendations, all while uncovering trends, patterns, and insights across thousands of dishes.
+This [Jupyter Notebook](hummus2.ipynb) project explores the world of recipe data through a combination of machine learning, network analysis, and natural language processing. By analyzing similarities between recipes based on their ingredients, we build a weighted graph of recipes and generate personalized recommendations, all while uncovering trends, patterns, and insights across thousands of dishes.
 
 ---
 
